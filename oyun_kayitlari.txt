@@ -1,0 +1,644 @@
+--- Oyun Başladı ---
+Güncelleme → nesneOluşturuldu x=34 y=0 sembol=O
+Güncelleme → nesneOluşturuldu x=67 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=34 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=27 y=0 sembol=*
+Güncelleme → nesneOluşturuldu x=49 y=0 sembol=O
+Girdi → tus=LeftArrow oyuncuX=33 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=45 y=0 sembol=X
+Güncelleme → nesneOluşturuldu x=31 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=34 oyuncuY=19
+Çarpışma → skor=3 kombo=1 yakalanan=O kazanılan=3
+Girdi → tus=LeftArrow oyuncuX=33 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=13 y=0 sembol=O
+Girdi → tus=LeftArrow oyuncuX=31 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=26 y=0 sembol=H
+Kombo_Bozuldu → KaçırılanSembol=*
+Girdi → tus=LeftArrow oyuncuX=29 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=27 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=28 oyuncuY=19
+Çarpışma → skor=4 kombo=1 yakalanan=* kazanılan=1
+Kombo_Bozuldu → KaçırılanSembol=O
+Güncelleme → nesneOluşturuldu x=68 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=27 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=64 y=0 sembol=H
+Güncelleme → nesneOluşturuldu x=63 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=26 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=27 oyuncuY=19
+Can_Kazandı → YeniCan=4
+Güncelleme → nesneOluşturuldu x=0 y=0 sembol=O
+Güncelleme → nesneOluşturuldu x=30 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=30 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=33 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=30 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=34 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=33 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=32 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=53 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=30 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=29 oyuncuY=19
+Çarpışma → skor=5 kombo=1 yakalanan=* kazanılan=1
+Zehir_Yendi → KalanCan=3
+Girdi → tus=RightArrow oyuncuX=30 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=3 y=0 sembol=*
+Güncelleme → nesneOluşturuldu x=26 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=30 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=16 y=0 sembol=O
+Girdi → tus=LeftArrow oyuncuX=29 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=26 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=25 oyuncuY=19
+Çarpışma → skor=6 kombo=1 yakalanan=* kazanılan=1
+Kombo_Bozuldu → KaçırılanSembol=*
+Güncelleme → nesneOluşturuldu x=42 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=24 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=68 y=0 sembol=X
+Güncelleme → nesneOluşturuldu x=56 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=22 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=19 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=17 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=17 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=16 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=52 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=17 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=19 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=22 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=25 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=28 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=31 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=34 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=36 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=39 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=23 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=42 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=45 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=18 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=48 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=44 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=49 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=12 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=48 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=47 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=62 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=46 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=45 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=13 y=0 sembol=O
+Girdi → tus=LeftArrow oyuncuX=42 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=39 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=36 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=34 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=31 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=25 y=0 sembol=O
+Girdi → tus=LeftArrow oyuncuX=28 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=25 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=58 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=23 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=19 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=17 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=64 y=0 sembol=O
+Girdi → tus=LeftArrow oyuncuX=14 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=11 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=12 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=42 y=0 sembol=*
+Çarpışma → skor=9 kombo=1 yakalanan=O kazanılan=3
+Girdi → tus=RightArrow oyuncuX=13 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=15 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=18 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=21 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=36 y=0 sembol=O
+Girdi → tus=RightArrow oyuncuX=24 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=5 y=0 sembol=O
+Kombo_Bozuldu → KaçırılanSembol=O
+Girdi → tus=RightArrow oyuncuX=26 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=29 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=38 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=32 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=15 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=35 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=37 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=41 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=42 oyuncuY=19
+Çarpışma → skor=10 kombo=1 yakalanan=* kazanılan=1
+Güncelleme → nesneOluşturuldu x=8 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=40 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=37 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=36 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=43 y=0 sembol=*
+Çarpışma → skor=13 kombo=2 yakalanan=O kazanılan=3
+Kombo_Bozuldu → KaçırılanSembol=O
+Girdi → tus=RightArrow oyuncuX=38 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=41 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=42 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=17 y=0 sembol=O
+Girdi → tus=RightArrow oyuncuX=43 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=56 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=44 oyuncuY=19
+Çarpışma → skor=14 kombo=1 yakalanan=* kazanılan=1
+Güncelleme → nesneOluşturuldu x=39 y=0 sembol=O
+Girdi → tus=LeftArrow oyuncuX=41 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=38 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=36 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=33 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=30 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=0 y=0 sembol=O
+Girdi → tus=LeftArrow oyuncuX=27 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=24 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=46 y=0 sembol=H
+Kombo_Bozuldu → KaçırılanSembol=O
+Girdi → tus=RightArrow oyuncuX=25 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=58 y=0 sembol=O
+Güncelleme → nesneOluşturuldu x=11 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=27 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=30 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=33 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=36 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=38 oyuncuY=19
+Çarpışma → skor=17 kombo=1 yakalanan=O kazanılan=3
+Girdi → tus=RightArrow oyuncuX=41 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=40 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=41 oyuncuY=19
+Kombo_Bozuldu → KaçırılanSembol=O
+Güncelleme → nesneOluşturuldu x=42 y=0 sembol=O
+Girdi → tus=RightArrow oyuncuX=44 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=46 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=12 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=49 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=3 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=51 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=49 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=59 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=46 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=43 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=42 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=41 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=43 y=0 sembol=*
+Çarpışma → skor=20 kombo=1 yakalanan=O kazanılan=3
+Girdi → tus=RightArrow oyuncuX=42 oyuncuY=19
+Kombo_Bozuldu → KaçırılanSembol=*
+Girdi → tus=LeftArrow oyuncuX=41 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=42 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=37 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=41 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=59 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=39 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=37 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=34 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=32 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=31 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=34 y=0 sembol=O
+Girdi → tus=RightArrow oyuncuX=32 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=6 y=0 sembol=*
+Güncelleme → nesneOluşturuldu x=39 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=32 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=38 y=0 sembol=X
+Güncelleme → nesneOluşturuldu x=38 y=0 sembol=O
+Güncelleme → nesneOluşturuldu x=65 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=33 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=38 y=0 sembol=O
+Güncelleme → nesneOluşturuldu x=22 y=0 sembol=O
+Çarpışma → skor=23 kombo=1 yakalanan=O kazanılan=3
+Girdi → tus=LeftArrow oyuncuX=32 oyuncuY=19
+Kombo_Bozuldu → KaçırılanSembol=*
+Güncelleme → nesneOluşturuldu x=36 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=33 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=36 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=36 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=33 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=32 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=31 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=32 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=29 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=36 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=26 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=23 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=27 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=65 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=30 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=31 oyuncuY=19
+Çarpışma → skor=24 kombo=1 yakalanan=* kazanılan=1
+Girdi → tus=LeftArrow oyuncuX=30 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=23 y=0 sembol=*
+Güncelleme → nesneOluşturuldu x=55 y=0 sembol=O
+Güncelleme → nesneOluşturuldu x=52 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=29 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=27 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=34 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=24 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=22 oyuncuY=19
+Çarpışma → skor=25 kombo=2 yakalanan=* kazanılan=1
+Girdi → tus=RightArrow oyuncuX=23 oyuncuY=19
+Kombo_Bozuldu → KaçırılanSembol=O
+Güncelleme → nesneOluşturuldu x=54 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=25 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=26 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=13 y=0 sembol=*
+Güncelleme → nesneOluşturuldu x=59 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=29 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=31 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=33 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=52 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=36 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=36 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=34 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=32 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=33 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=33 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=35 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=37 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=39 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=65 y=0 sembol=O
+Girdi → tus=RightArrow oyuncuX=40 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=39 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=37 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=35 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=67 y=0 sembol=O
+Girdi → tus=LeftArrow oyuncuX=32 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=30 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=31 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=39 y=0 sembol=O
+Girdi → tus=RightArrow oyuncuX=33 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=12 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=35 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=38 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=40 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=42 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=45 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=45 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=41 y=0 sembol=O
+Girdi → tus=LeftArrow oyuncuX=44 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=42 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=59 y=0 sembol=H
+Girdi → tus=LeftArrow oyuncuX=39 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=60 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=38 oyuncuY=19
+Çarpışma → skor=28 kombo=1 yakalanan=O kazanılan=3
+Girdi → tus=RightArrow oyuncuX=39 oyuncuY=19
+Kombo_Bozuldu → KaçırılanSembol=*
+Güncelleme → nesneOluşturuldu x=35 y=0 sembol=O
+Girdi → tus=RightArrow oyuncuX=40 oyuncuY=19
+Çarpışma → skor=31 kombo=1 yakalanan=O kazanılan=3
+Girdi → tus=LeftArrow oyuncuX=39 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=35 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=38 oyuncuY=19
+Kombo_Bozuldu → KaçırılanSembol=*
+Girdi → tus=LeftArrow oyuncuX=37 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=36 oyuncuY=19
+Çarpışma → skor=34 kombo=1 yakalanan=O kazanılan=3
+Girdi → tus=LeftArrow oyuncuX=35 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=34 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=33 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=32 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=31 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=3 y=0 sembol=*
+Güncelleme → nesneOluşturuldu x=8 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=30 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=22 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=27 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=19 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=25 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=28 y=0 sembol=O
+Girdi → tus=LeftArrow oyuncuX=23 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=20 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=18 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=15 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=13 oyuncuY=19
+Kombo_Bozuldu → KaçırılanSembol=*
+Girdi → tus=LeftArrow oyuncuX=10 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=23 y=0 sembol=O
+Girdi → tus=RightArrow oyuncuX=10 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=24 y=0 sembol=X
+Güncelleme → nesneOluşturuldu x=34 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=12 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=15 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=18 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=19 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=47 y=0 sembol=*
+Çarpışma → skor=35 kombo=1 yakalanan=* kazanılan=1
+Kombo_Bozuldu → KaçırılanSembol=*
+Güncelleme → nesneOluşturuldu x=23 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=20 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=62 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=22 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=24 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=26 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=13 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=29 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=31 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=34 oyuncuY=19
+Çarpışma → skor=36 kombo=1 yakalanan=* kazanılan=1
+Girdi → tus=RightArrow oyuncuX=36 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=0 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=39 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=42 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=44 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=45 oyuncuY=19
+Kombo_Bozuldu → KaçırılanSembol=*
+Girdi → tus=LeftArrow oyuncuX=44 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=42 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=40 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=37 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=34 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=53 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=32 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=29 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=27 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=25 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=22 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=22 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=6 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=24 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=26 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=29 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=18 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=31 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=62 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=33 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=32 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=2 y=0 sembol=X
+Güncelleme → nesneOluşturuldu x=58 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=31 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=29 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=26 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=46 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=24 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=22 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=19 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=17 oyuncuY=19
+Çarpışma → skor=37 kombo=1 yakalanan=* kazanılan=1
+Girdi → tus=RightArrow oyuncuX=18 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=32 y=0 sembol=*
+Güncelleme → nesneOluşturuldu x=63 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=21 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=44 y=0 sembol=O
+Girdi → tus=RightArrow oyuncuX=24 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=26 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=29 oyuncuY=19
+Kombo_Bozuldu → KaçırılanSembol=*
+Güncelleme → nesneOluşturuldu x=66 y=0 sembol=*
+Güncelleme → nesneOluşturuldu x=39 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=30 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=31 oyuncuY=19
+Çarpışma → skor=38 kombo=1 yakalanan=* kazanılan=1
+Güncelleme → nesneOluşturuldu x=8 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=34 oyuncuY=19
+Kombo_Bozuldu → KaçırılanSembol=*
+Girdi → tus=RightArrow oyuncuX=36 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=38 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=41 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=43 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=45 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=47 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=46 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=24 y=0 sembol=*
+Güncelleme → nesneOluşturuldu x=64 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=43 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=41 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=38 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=36 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=34 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=31 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=28 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=26 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=24 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=69 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=22 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=23 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=19 y=0 sembol=*
+Çarpışma → skor=39 kombo=1 yakalanan=* kazanılan=1
+Girdi → tus=RightArrow oyuncuX=24 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=13 y=0 sembol=*
+Kombo_Bozuldu → KaçırılanSembol=*
+Girdi → tus=LeftArrow oyuncuX=23 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=43 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=22 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=59 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=21 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=19 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=30 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=17 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=37 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=15 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=12 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=12 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=14 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=16 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=18 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=19 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=24 y=0 sembol=*
+Güncelleme → nesneOluşturuldu x=52 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=20 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=20 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=21 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=20 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=9 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=21 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=48 y=0 sembol=*
+Çarpışma → skor=40 kombo=1 yakalanan=* kazanılan=1
+Girdi → tus=RightArrow oyuncuX=24 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=65 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=26 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=28 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=31 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=33 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=36 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=38 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=40 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=43 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=45 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=47 oyuncuY=19
+Kombo_Bozuldu → KaçırılanSembol=*
+Girdi → tus=RightArrow oyuncuX=48 oyuncuY=19
+Çarpışma → skor=41 kombo=1 yakalanan=* kazanılan=1
+Girdi → tus=RightArrow oyuncuX=49 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=6 y=0 sembol=*
+Güncelleme → nesneOluşturuldu x=59 y=0 sembol=X
+Güncelleme → nesneOluşturuldu x=22 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=50 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=48 y=0 sembol=*
+Kombo_Bozuldu → KaçırılanSembol=*
+Girdi → tus=RightArrow oyuncuX=52 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=28 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=52 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=34 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=51 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=48 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=35 y=0 sembol=*
+Güncelleme → nesneOluşturuldu x=4 y=0 sembol=*
+Güncelleme → nesneOluşturuldu x=11 y=0 sembol=X
+Çarpışma → skor=42 kombo=1 yakalanan=* kazanılan=1
+Kombo_Bozuldu → KaçırılanSembol=*
+Güncelleme → nesneOluşturuldu x=17 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=47 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=64 y=0 sembol=X
+Güncelleme → nesneOluşturuldu x=22 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=45 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=43 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=40 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=38 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=36 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=5 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=35 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=39 y=0 sembol=X
+Çarpışma → skor=43 kombo=1 yakalanan=* kazanılan=1
+Girdi → tus=LeftArrow oyuncuX=34 oyuncuY=19
+Kombo_Bozuldu → KaçırılanSembol=*
+Güncelleme → nesneOluşturuldu x=41 y=0 sembol=X
+Güncelleme → nesneOluşturuldu x=11 y=0 sembol=X
+Güncelleme → nesneOluşturuldu x=40 y=0 sembol=O
+Girdi → tus=LeftArrow oyuncuX=32 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=29 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=17 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=27 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=24 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=22 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=20 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=18 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=30 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=19 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=29 y=0 sembol=X
+Güncelleme → nesneOluşturuldu x=18 y=0 sembol=O
+Girdi → tus=RightArrow oyuncuX=21 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=23 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=3 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=26 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=28 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=53 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=30 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=33 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=35 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=37 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=40 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=42 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=4 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=41 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=15 y=0 sembol=*
+Güncelleme → nesneOluşturuldu x=47 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=39 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=47 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=37 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=34 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=32 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=29 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=27 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=25 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=22 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=20 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=18 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=15 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=57 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=15 oyuncuY=19
+Çarpışma → skor=44 kombo=1 yakalanan=* kazanılan=1
+Kombo_Bozuldu → KaçırılanSembol=*
+Girdi → tus=RightArrow oyuncuX=17 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=5 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=19 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=21 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=24 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=26 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=29 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=31 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=33 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=36 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=38 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=40 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=43 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=69 y=0 sembol=O
+Girdi → tus=LeftArrow oyuncuX=43 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=40 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=44 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=38 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=35 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=33 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=8 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=30 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=28 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=36 y=0 sembol=X
+Girdi → tus=LeftArrow oyuncuX=26 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=23 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=23 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=26 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=28 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=34 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=31 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=33 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=36 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=38 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=40 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=43 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=45 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=47 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=50 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=7 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=50 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=1 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=47 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=45 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=42 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=40 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=38 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=47 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=35 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=33 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=45 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=31 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=28 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=26 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=24 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=21 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=20 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=22 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=25 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=6 y=0 sembol=O
+Girdi → tus=RightArrow oyuncuX=27 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=29 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=32 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=1 y=0 sembol=O
+Girdi → tus=RightArrow oyuncuX=34 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=36 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=39 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=41 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=0 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=41 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=40 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=61 y=0 sembol=O
+Girdi → tus=LeftArrow oyuncuX=37 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=23 y=0 sembol=O
+Girdi → tus=LeftArrow oyuncuX=35 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=33 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=49 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=30 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=28 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=26 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=23 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=21 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=21 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=22 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=47 y=0 sembol=*
+Güncelleme → nesneOluşturuldu x=61 y=0 sembol=*
+Çarpışma → skor=47 kombo=1 yakalanan=O kazanılan=3
+Kombo_Bozuldu → KaçırılanSembol=O
+Girdi → tus=RightArrow oyuncuX=23 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=45 y=0 sembol=O
+Güncelleme → nesneOluşturuldu x=14 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=26 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=28 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=46 y=0 sembol=H
+Girdi → tus=RightArrow oyuncuX=30 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=34 y=0 sembol=*
+Girdi → tus=RightArrow oyuncuX=33 oyuncuY=19
+Girdi → tus=RightArrow oyuncuX=35 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=35 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=2 y=0 sembol=X
+Girdi → tus=RightArrow oyuncuX=36 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=37 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=27 y=0 sembol=O
+Girdi → tus=LeftArrow oyuncuX=36 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=54 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=35 oyuncuY=19
+Güncelleme → nesneOluşturuldu x=44 y=0 sembol=*
+Güncelleme → nesneOluşturuldu x=60 y=0 sembol=H
+Güncelleme → nesneOluşturuldu x=48 y=0 sembol=*
+Girdi → tus=LeftArrow oyuncuX=32 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=30 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=27 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=25 oyuncuY=19
+Girdi → tus=LeftArrow oyuncuX=23 oyuncuY=19
